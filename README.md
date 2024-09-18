@@ -9,7 +9,7 @@ The use of MapReduce algorithms for symptom co-occurrence analysis and sentiment
 
 **Source**
 
-The dataset, titled "Long Covid Risk" \parencite{shaheen_long_2024}, was authored by Ahmed Shaheen and published on Figshare, a reputable online repository for research data. This comprehensive dataset was made available on April 14, 2024, providing researchers with valuable information for studying Long COVID risk factors and symptoms.
+The dataset, titled "Long Covid Risk", was authored by Ahmed Shaheen and published on Figshare, a reputable online repository for research data. This comprehensive dataset was made available on April 14, 2024, providing researchers with valuable information for studying Long COVID risk factors and symptoms.
 https://figshare.com/articles/dataset/Long_Covid_Risk/25599591
 
 **Data Structure and Format**
